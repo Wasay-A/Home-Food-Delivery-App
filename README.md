@@ -21,6 +21,13 @@ https://youtu.be/b0HyVivwyVg
 <b>Google Firebase NoSQL database:</b><br>
 <img width="557" alt="image" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/4b73802c-e1ed-4ebf-9c98-49faf1cf68d3">
 
+<b>Customer screen:<b><br>
+
+<b>Cook screen:<b><br>
+
+<b>Driver screen:<b>
+
+
 
 
 
