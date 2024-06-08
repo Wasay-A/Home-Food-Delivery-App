@@ -31,7 +31,8 @@ https://youtu.be/b0HyVivwyVg
 
 
 <b>Cook screen:<b><br>
-<img width="387" alt="Screenshot 2024-06-08 at 4 41 08 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/beff94af-0d3e-4625-88ad-d9702aa19805">
+<img width="383" alt="Screenshot 2024-06-08 at 4 53 03 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/94fc7c5e-c8bb-4ad6-b8e9-969ee57776c7">
+<img width="388" alt="Screenshot 2024-06-08 at 4 50 51 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/d6927632-9fc0-43eb-8ef2-39505e6d6c8a">
 
 <b>Driver screen:<b>
 
