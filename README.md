@@ -11,7 +11,7 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 
 <b>Technologies Used:</b>
 <br>- Android Studio with Java and XML to program the functionalities and design of the app
-<br>- Google Firebase NoSQL database to store and manage data for each user
+<br>- Google Firebase NoSQL database to store and manage data for each user in real time
 <br>- Google Maps to provide navigation for the driver
 
 <b>Video Demonstration:</b><br>
