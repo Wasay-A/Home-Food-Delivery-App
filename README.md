@@ -14,7 +14,7 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 <br>Google Firebase NoSQL database to store and manage data for each user
 <br>Google Maps to provide navigation for the driver
 
-<b>Video Demonstration:</b>
+<b>Video Demonstration:</b><br>
 Video demonstration of the app being used by the customer, cook, and driver:
 https://youtu.be/b0HyVivwyVg
 
