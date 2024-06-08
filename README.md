@@ -37,6 +37,8 @@ https://youtu.be/b0HyVivwyVg
 <img width="388" alt="Screenshot 2024-06-08 at 4 50 51 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/d6927632-9fc0-43eb-8ef2-39505e6d6c8a">
 
 <b>Driver screen:<b>
+<img width="316" alt="Screenshot 2024-06-08 at 5 04 27 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/f8d4c587-9e10-4429-ba96-cd550b0fe901">
+<img width="332" alt="Screenshot 2024-06-08 at 5 05 57 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/467838a7-5e67-4851-97c5-1e9af963592b">
 
 
 
