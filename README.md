@@ -27,6 +27,8 @@ https://youtu.be/b0HyVivwyVg
 <b>Customer screen:<b><br>
 <img width="372" alt="Screenshot 2024-06-08 at 4 43 02 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/d5f0d749-cdd4-48b6-be0f-91899898d936">
 <img width="373" alt="Screenshot 2024-06-08 at 4 45 23 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/9e2ff048-f0c8-4f76-9145-898261f8822d">
+<img width="366" alt="Screenshot 2024-06-08 at 4 48 12 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/e53134c5-09db-47b5-a60d-c7f805219a7d">
+
 
 <b>Cook screen:<b><br>
 <img width="387" alt="Screenshot 2024-06-08 at 4 41 08 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/beff94af-0d3e-4625-88ad-d9702aa19805">
