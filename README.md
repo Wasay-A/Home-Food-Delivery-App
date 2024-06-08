@@ -28,6 +28,9 @@ https://youtu.be/b0HyVivwyVg
 <img width="372" alt="Screenshot 2024-06-08 at 4 43 02 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/d5f0d749-cdd4-48b6-be0f-91899898d936">
 <img width="373" alt="Screenshot 2024-06-08 at 4 45 23 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/9e2ff048-f0c8-4f76-9145-898261f8822d">
 <img width="366" alt="Screenshot 2024-06-08 at 4 48 12 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/e53134c5-09db-47b5-a60d-c7f805219a7d">
+<img width="393" alt="Screenshot 2024-06-08 at 5 10 55 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/38d45f74-f6e0-4099-a882-2a8a20376107">
+<img width="393" alt="Screenshot 2024-06-08 at 5 11 33 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/febb0541-9b1a-4565-ac95-34fc193ad152">
+<img width="396" alt="Screenshot 2024-06-08 at 5 12 10 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/234282c1-7bb2-48ad-9198-243998fd652d">
 
 
 <b>Cook screen:<b><br>
@@ -39,6 +42,7 @@ https://youtu.be/b0HyVivwyVg
 <b>Driver screen:<b><br>
 <img width="316" alt="Screenshot 2024-06-08 at 5 04 27 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/f8d4c587-9e10-4429-ba96-cd550b0fe901">
 <img width="332" alt="Screenshot 2024-06-08 at 5 05 57 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/467838a7-5e67-4851-97c5-1e9af963592b">
+<img width="334" alt="Screenshot 2024-06-08 at 5 08 21 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/6ddc35f2-35ea-4244-b1c8-75c23129ad97">
 
 
 
