@@ -10,9 +10,9 @@ File "code" contains project demonstration slides, app report with extensive inf
 The Home Food Delivery App is designed for home cooked food deliveries. The app has three main users: cook, customer, and driver. The cook can be any registered individual with the flexibility to create their own menu and sell their own food items. The customer can be any registered individual within proximity to order food items from the cook(s). The driver can be any registered individual within proximity to deliver food from the cook to the customer.
 
 <b>Technologies Used:</b>
-<br>Android Studio with Java and XML to program the functionalities and design of the app
-<br>Google Firebase NoSQL database to store and manage data for each user
-<br>Google Maps to provide navigation for the driver
+<br>- Android Studio with Java and XML to program the functionalities and design of the app
+<br>- Google Firebase NoSQL database to store and manage data for each user
+<br>- Google Maps to provide navigation for the driver
 
 <b>Video Demonstration:</b><br>
 Video demonstration of the app being used by the customer, cook, and driver:
