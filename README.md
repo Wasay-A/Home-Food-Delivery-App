@@ -21,7 +21,7 @@ https://youtu.be/b0HyVivwyVg
 <b>Google Firebase NoSQL database:</b><br>
 <img width="557" alt="image" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/4b73802c-e1ed-4ebf-9c98-49faf1cf68d3">
 
-<b>Below are some screenshots for each user:</b><br>
+<b>Below are some screenshots for each user</b><br>
 
 <b>Login screen:<b><br>
 <img width="385" alt="Screenshot 2024-06-08 at 4 32 22 PM" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/136b8148-e9b0-4f88-b680-d578b74f17b0">
