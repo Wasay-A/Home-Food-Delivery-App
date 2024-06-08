@@ -11,6 +11,5 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 
 Link to a video demonstration of the app:
 https://youtu.be/b0HyVivwyVg
-<img width="154" alt="image" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/e2adf4c8-b92c-49ab-8e5a-f9b5efbb971a">
 
 
