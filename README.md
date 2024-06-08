@@ -9,3 +9,5 @@ File "code" contains project demonstration slides, app report with extensive inf
 The Home Food Delivery App is designed for home cooked food deliveries. The app has three main users: cook, customer, and driver. The cook can be any registered individual with the flexibility to create their own menu and sell their own food items. The customer can be any registered individual within proximity to order food items from the cook(s). The driver can be any registered individual within proximity to deliver food from the cook to the customer.
 
 
+Link to a demonstration of the app:
+
