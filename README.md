@@ -18,7 +18,7 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 Video demonstration of the app being used by the customer, cook, and driver:
 https://youtu.be/b0HyVivwyVg
 
-<b>Picture of Google Firebase NoSQL database:</b><br>
+<b>Google Firebase NoSQL database:</b><br>
 <img width="557" alt="image" src="https://github.com/Wasay-A/Home-Food-Delivery-App/assets/98603984/4b73802c-e1ed-4ebf-9c98-49faf1cf68d3">
 
 
