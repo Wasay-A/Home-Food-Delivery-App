@@ -10,7 +10,7 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 
 
 Link to a video demonstration of the app:
-<a href="https://youtu.be/b0HyVivwyVg" target="_blank">Watch the video</a>
+https://youtu.be/b0HyVivwyVg
 
 
 
