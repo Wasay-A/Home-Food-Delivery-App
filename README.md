@@ -1,7 +1,7 @@
 # Home-Food-Delivery-App
 
 <b>Overview</b><br>
-Home Food Delivery App is a coding project worked on by Wasay Ahmed, Christian Gutierrez, Jordan Nguyen, and Natalie Reyes during Spring 2022 at University of Illinois at Chicago for the course CS 440 Software Engineering 1 taught by Professor John Bell.
+Home Food Delivery App is a <u>coding</u> project worked on by Wasay Ahmed, Christian Gutierrez, Jordan Nguyen, and Natalie Reyes during Spring 2022 at University of Illinois at Chicago for the course CS 440 Software Engineering 1 taught by Professor John Bell. The project idea was invented and worked on as a <u>developmental</u> project by Humza Habibullah, Heta Patel, and Jay Garg during Fall 2021 at University of Illinois at Chicago for the course CS 440 Software Engineering 1 taught by Professor John Bell.
 
 
 File "code" contains project demonstration slides, app report with extensive information including diagrams and tests, app summary, app scenario, and link to the code.
