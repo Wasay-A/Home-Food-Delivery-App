@@ -5,7 +5,7 @@ Home Food Delivery App is a <ins>coding</ins> project worked on by Wasay Ahmed, 
 
 The <ins>coding</ins> project involved reading and implementing a functioning version of a past semester group's <ins>developmental</ins> project, which included extensive and various amounts of documentation consisting of information, diagrams, designs, and requirements about the project to be implemented.  Additionally, the <ins>coding</ins> project involved a large amount of coding, testing, sprints on Jira, and weekly meetings with the group. This project gave our group the experience to be able to read various documentation, and work together as a team to create a functioning version of the project that meets the requirments.
 
-File "Code" contains project demonstration slides, app report with extensive information including diagrams and tests, app summary, and app scenario. To view the code, please request 
+File "Code" contains project demonstration slides, app report with extensive information including diagrams and tests, app summary, and app scenario. If you are interested in viewing the code, please contact Wasay
 
 
 The Home Food Delivery App is designed for home cooked food deliveries. The app has three main users: cook, customer, and driver. The cook can be any registered individual with the flexibility to create their own menu and sell their own food items from the comfort of their own location. The customer can be any registered individual within proximity to order food items from available cook(s). The driver can be any registered individual within proximity to deliver food from the cook to the customer.
